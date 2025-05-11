@@ -1,3 +1,4 @@
+
 import type { Config } from "tailwindcss";
 
 export default {
@@ -61,7 +62,12 @@ export default {
 					'accent-foreground': 'hsl(var(--sidebar-accent-foreground))',
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
-				}
+				},
+				// Nigerian colors
+				'ng-green': '#008753',
+				'ng-green-light': '#4CAF50',
+				'ng-white': '#FFFFFF',
+				'ng-gold': '#FFD700',
 			},
 			borderRadius: {
 				lg: 'var(--radius)',
