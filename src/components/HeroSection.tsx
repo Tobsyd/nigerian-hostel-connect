@@ -11,7 +11,7 @@ const HeroSection: React.FC = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8 items-center">
           <div>
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-gray-900 mb-4">
-              Find Your Perfect <span className="text-ng-green">Student</span> Accommodation
+              Find Your Perfect <span className="text-ng-green">Student</span> Lodge
             </h1>
             <p className="text-lg text-gray-700 mb-8 leading-relaxed">
               Connecting Nigerian students with quality hostels and accommodations near their universities. 

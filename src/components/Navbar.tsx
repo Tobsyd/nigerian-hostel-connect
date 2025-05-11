@@ -13,9 +13,9 @@ const Navbar: React.FC = () => {
         <div className="flex justify-between items-center">
           <Link to="/" className="flex items-center space-x-2">
             <div className="w-8 h-8 rounded-full bg-ng-green flex items-center justify-center">
-              <span className="text-white font-bold text-lg">N</span>
+              <span className="text-white font-bold text-lg">F</span>
             </div>
-            <span className="font-bold text-xl text-ng-green">NigerianHostelConnect</span>
+            <span className="font-bold text-xl text-ng-green">FindMyLodge</span>
           </Link>
           
           {/* Mobile menu button */}

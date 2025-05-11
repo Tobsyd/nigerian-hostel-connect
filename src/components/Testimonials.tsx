@@ -9,7 +9,7 @@ const testimonials = [
     name: "Chioma Okafor",
     university: "University of Lagos",
     image: "https://images.unsplash.com/photo-1531123897727-8f129e1688ce?ixlib=rb-4.0.3&auto=format&fit=crop&w=150&h=150&q=80",
-    text: "NigerianHostelConnect made finding accommodation near UNILAG so easy! The verified listings gave me peace of mind, and their ambassador helped me tour the property before making my decision. Highly recommend!",
+    text: "FindMyLodge made finding accommodation near UNILAG so easy! The verified listings gave me peace of mind, and their ambassador helped me tour the property before making my decision. Highly recommend!",
     rating: 5
   },
   {
@@ -37,7 +37,7 @@ const Testimonials: React.FC = () => {
         <div className="text-center mb-12">
           <h2 className="text-3xl font-bold mb-4">What Our Students Say</h2>
           <p className="text-lg opacity-90 max-w-2xl mx-auto">
-            Hear from students who've found their perfect accommodation through Nigerian Hostel Connect
+            Hear from students who've found their perfect accommodation through FindMyLodge
           </p>
         </div>
         

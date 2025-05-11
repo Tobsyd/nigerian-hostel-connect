@@ -12,9 +12,9 @@ const Footer: React.FC = () => {
           <div>
             <div className="flex items-center space-x-2 mb-4">
               <div className="w-8 h-8 rounded-full bg-ng-green flex items-center justify-center">
-                <span className="text-white font-bold text-lg">N</span>
+                <span className="text-white font-bold text-lg">F</span>
               </div>
-              <span className="font-bold text-xl text-white">NigerianHostelConnect</span>
+              <span className="font-bold text-xl text-white">FindMyLodge</span>
             </div>
             <p className="text-gray-400 mb-6">
               Connecting Nigerian students with quality housing solutions near their universities.
@@ -68,7 +68,7 @@ const Footer: React.FC = () => {
               </div>
               <div className="flex items-center space-x-3">
                 <Mail size={20} className="text-ng-green flex-shrink-0" />
-                <span className="text-gray-400">info@nigerianhostelconnect.com</span>
+                <span className="text-gray-400">info@findmylodge.com</span>
               </div>
               <div className="flex items-center space-x-3">
                 <Phone size={20} className="text-ng-green flex-shrink-0" />
@@ -81,7 +81,7 @@ const Footer: React.FC = () => {
         <div className="border-t border-gray-800 mt-10 pt-6">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <p className="text-gray-400 text-sm">
-              © {new Date().getFullYear()} NigerianHostelConnect. All rights reserved.
+              © {new Date().getFullYear()} FindMyLodge. All rights reserved.
             </p>
             <div className="flex space-x-6 mt-4 md:mt-0">
               <Link to="/terms" className="text-gray-400 hover:text-white text-sm">Terms of Service</Link>

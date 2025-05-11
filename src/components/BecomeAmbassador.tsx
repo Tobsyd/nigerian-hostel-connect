@@ -22,7 +22,7 @@ const BecomeAmbassador: React.FC = () => {
             <h2 className="text-3xl font-bold text-gray-900 mb-4">Become a Campus Ambassador</h2>
             <p className="text-lg text-gray-600 mb-6 leading-relaxed">
               Join our network of campus ambassadors and help fellow students find their perfect accommodation while earning extra income. 
-              Represent Nigerian Hostel Connect on your campus and make a difference.
+              Represent FindMyLodge on your campus and make a difference.
             </p>
             
             <div className="space-y-4 mb-8">
